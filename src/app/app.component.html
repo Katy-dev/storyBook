@@ -1,0 +1,9 @@
+<section>
+  <h4>My first simple App with StoryBook!</h4>
+  <app-button
+    (clickEvent)="onToggle($event)">
+  </app-button>
+  <div *ngIf="toggle">
+    <app-message [message] ="message"></app-message>
+  </div>
+</section>

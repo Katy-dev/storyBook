@@ -1,0 +1,10 @@
+div {
+  margin-top: 50px;
+  box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.29);
+  background-color: white;
+  height: 200px;
+  text-align: center;
+  font-size: 1.5rem;
+  color: dimgrey;
+  padding: 2rem;
+}
